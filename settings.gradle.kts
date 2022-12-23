@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Cool Sick Blog"
-include ':app'
+include(":app")
